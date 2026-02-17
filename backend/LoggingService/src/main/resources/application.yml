@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: LoggingService
+
+server:
+  port: 8086
